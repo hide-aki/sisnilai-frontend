@@ -1,0 +1,9 @@
+// Here you can add other styles
+.ReactTable .rt-td {
+  padding: 10px!important;
+  line-height: 30px!important;
+}
+
+.ReactTable .rt-td:last-child {
+  line-height: 0!important;
+}

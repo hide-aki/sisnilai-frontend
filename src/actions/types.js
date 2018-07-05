@@ -1,0 +1,12 @@
+export const FETCH_SISWA_LIST = 'FETCH_SISWA_LIST'
+export const FETCH_SISWA = 'FETCH_SISWA'
+export const NEW_SISWA = 'NEW_SISWA'
+export const UPDATE_SISWA = 'UPDATE_SISWA'
+export const DELETE_SISWA = 'DELETE_SISWA'
+
+export const FETCH_NILAI_LIST = 'FETCH_NILAI_LIST'
+export const FETCH_NILAI = 'FETCH_NILAI'
+export const FETCH_NILAI_KOSONG = 'FETCH_NILAI_KOSONG'
+export const NEW_NILAI = 'NEW_NILAI'
+export const UPDATE_NILAI = 'UPDATE_NILAI'
+export const DELETE_NILAI = 'DELETE_NILAI'

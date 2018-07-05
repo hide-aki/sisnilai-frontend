@@ -1,0 +1,6 @@
+{
+  "name": "Siswa",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Siswa.js"
+}
